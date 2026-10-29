@@ -7,7 +7,7 @@ This project focuses on analyzing Google Ads sales data using Python to understa
 - Python
 - Pandas and NumPy
 - Matplotlib and Seaborn
-- Jupyter Notebook
+
 
 ## Project Tasks
 - Inspected and cleaned the raw dataset.
